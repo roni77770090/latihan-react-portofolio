@@ -1,0 +1,10 @@
+@import "tailwindcss";
+@plugin "flowbite/plugin";
+@source "../node_modules/flowbite";
+
+@layer base{
+  body{
+    font-family: "poppins", sans-serif;
+  }
+}
+
